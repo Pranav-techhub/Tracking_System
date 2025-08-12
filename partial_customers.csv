@@ -1,0 +1,3 @@
+id,name,phone,email,address,due,last_update,status,partial_payment_amount,paid_at
+1,Amit Sharma,9876543210,amit.sharma@gmail.com,Pune,800,2025-08-05 09:00:00,active,200,2025-08-06 10:00:00
+3,Rajeev Nair,9011223344,rajeev.nair@gmail.com,Nashik,300,2025-08-04 14:30:00,active,150,2025-08-07 15:00:00

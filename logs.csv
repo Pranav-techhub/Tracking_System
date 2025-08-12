@@ -1,0 +1,22 @@
+timestamp,function,message,args,kwargs
+2025-08-11 09:00:00,add_customer,Added new customer ('John Doe', '9876543210', 'Mumbai'),(),{}
+2025-08-11 09:15:00,update_due,Updated due for customer_id=3,(3, 500.0),{}
+2025-08-11 09:30:00,delete_customer,Deleted customer_id=7,(7,),{}
+2025-08-11 10:04:22,api_get_customers,Fetching all customers,,
+2025-08-11 10:04:51,api_get_customers,Fetching all customers,,
+2025-08-11 10:24:34,api_get_customers,Fetching all customers,,
+2025-08-11 10:24:40,api_get_customers,Fetching all customers,,
+2025-08-11 10:24:49,api_get_customers,Fetching all customers,,
+2025-08-11 10:26:34,api_get_customers,Fetching all customers,,
+2025-08-11 10:40:24,api_get_customers,Fetching all customers,,
+2025-08-11 11:05:32,api_get_customers,Fetching all customers,,
+2025-08-11 11:12:19,api_get_customers,Fetching all customers,,
+2025-08-11 11:14:37,api_get_customers,Fetching all customers,,
+2025-08-11 11:15:16,api_get_customers,Fetching all customers,,
+2025-08-11 11:17:29,api_get_customers,Fetching all customers,,
+2025-08-11 11:18:57,api_get_customers,Fetching all customers,,
+2025-08-11 11:19:31,api_get_customers,Fetching all customers,,
+2025-08-11 11:19:50,api_get_customers,Fetching all customers,,
+2025-08-11 11:20:10,api_get_customers,Fetching all customers,,
+2025-08-11 11:20:18,api_get_customers,Fetching all customers,,
+2025-08-11 11:28:26,api_get_customers,Fetching all customers,,
